@@ -2,8 +2,8 @@
 <project version="4">
   <component name="WebServers">
     <option name="servers">
-      <webServer id="4851ef0e-0b2e-470f-8ad0-4cac065e6956" name="h" url="http://localhost">
-        <fileTransfer accessType="LOCAL" />
+      <webServer id="4851ef0e-0b2e-470f-8ad0-4cac065e6956" name="h" url="http://frst-demo.herokuapp.com">
+        <fileTransfer host="frst-demo.herokuapp.com" port="21" accessType="FTPS" username="Dido Dim" />
       </webServer>
     </option>
   </component>
