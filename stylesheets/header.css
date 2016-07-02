@@ -1,0 +1,71 @@
+
+
+body{
+    /*background-image: url("https://pixabay.com/static/uploads/photo/2016/03/10/06/51/background-1247931_960_720.jpg");*/
+
+
+    /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b7deed+0,71ceef+50,21b4e2+51,b7deed+100;Shape+1+Style */
+
+
+    /*background: red; !* For browsers that do not support gradients *!*/
+    /*background: -webkit-linear-gradient(left, cornflowerblue , #ff9f3c); !* For Safari 5.1 to 6.0 *!*/
+    /*background: -o-linear-gradient(right, cornflowerblue , #ff9f3c); !* For Opera 11.1 to 12.0 *!*/
+    /*background: -moz-linear-gradient(right, cornflowerblue , #ff9f3c); !* For Firefox 3.6 to 15 *!*/
+    /*background: linear-gradient(to right, cornflowerblue , #ff9f3c); !* Standard syntax *!*/
+
+    /*!* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#b7deed+0,71ceef+50,21b4e2+51,b7deed+100;Shape+1+Style *!*/
+    /*background: #b7deed; !* Old browsers *!*/
+    /*background: -moz-linear-gradient(top,  #b7deed 0%, #71ceef 50%, #21b4e2 51%, #b7deed 100%); !* FF3.6-15 *!*/
+    /*background: -webkit-linear-gradient(top,  #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%); !* Chrome10-25,Safari5.1-6 *!*/
+    /*background: linear-gradient(to bottom,  #b7deed 0%,#71ceef 50%,#21b4e2 51%,#b7deed 100%); !* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ *!*/
+    /*filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b7deed', endColorstr='#b7deed',GradientType=0 ); !* IE6-9 *!*/
+
+    background-color: #6ba6ef;
+    background-position: center;
+    /*background-repeat: repeat;*/
+    background-size: 100% 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    height:100%;
+}
+#wrapper{
+    background: #ff9f3c;
+
+}
+h2 {
+    text-align: center;
+    color: cornflowerblue;
+}
+.nav-pills {
+    text-align: center;
+    background-color: rgba(145, 114, 127, 0.26);
+    /*border: 3px solid gold;*/
+    border-radius: 10px;
+
+}
+.nav-pills li{
+    float: none;
+    display: inline-block;
+}
+.btn{
+    margin: 3px;
+}
+.form-control{
+    margin:4px;
+}
+
+
+.hide {
+    visibility: hidden;
+}
+.show {
+    visibility: inherit;
+
+}
+#logout-form {
+    text-align: center;
+}
+.table-bordered{
+    background-color: #ffb161;
+}
